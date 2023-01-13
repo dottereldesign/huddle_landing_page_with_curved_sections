@@ -90,3 +90,8 @@ select {
     scroll-behavior: auto !important;
   }
 }
+
+* {
+  font-family: var(--ff-primary-100);
+  font-size: initial;
+}
